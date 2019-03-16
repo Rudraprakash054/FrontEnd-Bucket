@@ -1,0 +1,80 @@
+body
+{
+  background-color: #e2dada;
+}
+h3
+{
+	text-align: center;
+	color: white;
+	margin-top: 50px;
+	background-color: #39b539;
+	margin-left: 400px;
+	margin-right: 400px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-radius: 15px 15px 5px 5px;
+}
+.username
+{
+	color: #0de00d;
+	background-color:#ece5e5;
+	padding-left: 30px;
+	padding-right: 40px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 15px 15px;
+	margin-top:30px;
+}
+.password
+{
+	color: #0de00d;
+	background-color:#ece5e5;
+	padding-left: 30px;
+	padding-right: 40px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 15px 15px;
+	margin-top:20px;
+}
+::placeholder
+{
+	color: green;
+}
+.form
+{
+	background-color:white;
+	margin-left:400px;
+	margin-right:400px;
+	padding-top:20px;
+	padding-bottom: 50px;
+	border-radius: 5px 5px 15px 15px;
+}
+.submit
+{
+	color: white;
+	text-align:center;
+	background-color:#1fa70b;
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 15px 15px;
+	margin-top:20px;
+}
+.account
+{
+	color:#615c5c;
+	text-align: center;
+	margin-top:40px;
+}
+.signup
+{
+	text-align:center;
+	margin-top:60px;
+}
+.forget
+{
+	color:green;
+    text-align: center;
+	padding-left: 70px;
+}
