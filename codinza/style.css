@@ -1,0 +1,48 @@
+body
+{
+   padding-left: 30px;
+    padding-right: 30px;
+    background-image: url('wall.jpg');
+    background-size: auto;
+    border-style: solid;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+	font-family: 'Permanent Marker', cursive;
+}
+h1
+{
+   margin-top: 50px;
+   border-style: solid;
+
+}
+.Name
+{
+	padding-right: 40px;
+	margin-left: 20px;
+}
+.Name2
+{
+	padding-right: 40px;
+	margin-left: 20px;
+}
+.E-mail
+{
+	padding-right: 40px;
+	margin-left: 44px;
+}
+.year
+{
+	padding-right: 30px;
+	margin-left: -90px;
+}
+.selector
+{
+	padding-left: 20px;
+	margin-right: 60px;
+}
+.submit_button
+{
+	margin-bottom: 5px;
+}
