@@ -10,9 +10,10 @@ h3
 	background-color: #39b539;
 	margin-left: 400px;
 	margin-right: 400px;
+	margin-bottom: 0px;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	border-radius: 15px 15px 5px 5px;
+	border-radius: 15px 15px 0px 0px;
 }
 .username
 {
@@ -47,7 +48,7 @@ h3
 	margin-right:400px;
 	padding-top:20px;
 	padding-bottom: 50px;
-	border-radius: 5px 5px 15px 15px;
+	border-radius: 0px 0px 15px 15px;
 }
 .submit
 {
