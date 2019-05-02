@@ -1,0 +1,424 @@
+.profile
+{
+  background-image: url(cover.jpg);
+  background-size: cover;
+  border-radius: 3px 3px 3px 3px;
+  margin-left: 250px;
+  margin-right: 250px;
+  height: 250px;
+}
+.body
+{
+  background-color: #e6e2e2;
+}
+.about
+{
+  border: 1px #aba7a7 solid;
+  background-color: white;
+  background-size: cover;
+  border-radius: 0px 0px 3px 3px;
+  margin-left: 250px;
+  margin-right: 250px;
+  height: 500px;
+}
+.image-circle
+{
+  margin-left: 10px;
+  margin-top: 160px;
+  width: 150px;
+  height: 150px;
+  filter: brightness(120%);
+  border:5px solid #ccc6c6;
+}
+.dp
+{
+  width: 200px;
+  height: 310px;
+}
+.pen-logo
+{
+  height: 60px;
+  padding-top: 30px;
+  padding-left: 530px;
+  margin-left: 49.2px;
+}
+.about-h5
+{
+  color: #adaaaa;
+}
+.about-details
+{
+  padding-left: 25px;
+}
+.about-position
+{
+  padding-top: 15px;
+  padding-left: 130px;
+}
+.position-name
+{}
+.about-info-h5
+{
+font-weight: bold;
+}
+.position-logo
+{
+  padding-top: 5px;
+}
+.about-border
+{
+  border-bottom:1px #a99d9d solid;
+  padding-top: 260px;
+  margin-left: 25px;
+  margin-right: 30px;
+}
+.about-last-border
+{
+  border-bottom:1px #a99d9d solid;
+  padding-top: 20px:
+  margin-top: 20px;
+}
+.about-info
+{
+  padding-top: 15px;
+  padding-left: 25px;
+  margin-bottom: 20px;
+}
+.about-des
+{
+   font-size: 17px;
+   padding-bottom: 13px;
+}
+.spark-doc
+{
+  padding-right: 70px;
+  margin-left: 25px;
+  height: 70px;
+  border: 1px #d0d0c8 solid;
+  border-radius: 5px 2px 2px 5px;
+}
+.doc-name
+{
+  font-weight: bold;
+  border: 1px #d0d0c8 solid;
+  height: 70px;
+  border-radius: 2px 5px 5px 2px;
+  padding-top: 5px;
+}
+.about-show,.interest-see
+{
+  color: #6878fd;
+  font-size: 15px;
+  font-weight: bold;
+  padding-top: 10px;
+  text-align: center;
+}
+.dashboard,.profile-strength,.education-board,.accomplish-board,.skill-board,.interests-board
+{
+  margin-top: 10px;
+  border: 1px #aba7a7 solid;
+  background-color: #e1ebecc9;
+  background-size: cover;
+  border-radius: 3px 3px 3px 3px;
+  margin-left: 250px;
+  margin-right: 250px;
+  height: 380px;
+}
+.profile-strength
+{
+  background-color: white;
+  height: 150px;
+}
+.prof-row1
+{
+  padding-left: 25px;
+  margin-bottom: 10px;
+}
+.prof-col
+{
+  padding-top: 10px;
+  color: #d6d3d3;
+}
+.prof-col2
+{
+  padding-top: 17px;
+  padding-left: 0px;
+   font-size: 18px;
+   font-weight: bold;
+}
+.prof-col3
+{
+  padding-top: 17px;
+  padding-left: 490px;
+}
+.prof-row2
+{
+  padding-left: 40px;
+}
+.prof-col21,.prof-col22,.prof-col23,.prof-col25,.prof-col26
+{
+  height: 18px;
+  width:100px;
+  margin-top:20px;
+  border-right: 2px white solid;
+}
+.prof-col21{background-color: #8157a7d4;}
+.prof-col22{background-color: #0918c18f;}
+.prof-col23{background-color: #30d2d19c;}
+.prof-col24{background-color: #6cd4b7e3;height: 18px;width:100px;margin-top:20px;}
+.prof-col25{background-color: #27e81985;}
+.prof-col26{background-color: #28e01bcf;}
+.prof-col27{background-color: #0abb0a;height: 18px;width:100px;margin-top:20px;}
+.check
+{
+  width: 30px;
+  padding-left: 0px;
+  margin-top: 14px;
+}
+.star
+{
+  width:30px;
+  padding-left: 0px;
+  margin-top: 14px;
+}
+.your
+{
+margin-left: 25px;
+margin-bottom: 5px;
+}
+#private
+{
+  color: #757474;
+}
+.view-dashboard,.career-dashboard
+{
+  margin-left: 25px;
+  border: 1px #949191e0 solid;
+  margin-right: 25px;
+  border-radius: 4px 4px 4px 4px;
+}
+.view
+{
+  background-color: white;
+  height: 90px;
+  border-right: 1px #949191e0 solid;
+}
+.view-h2
+{
+  color: #6878fd;
+}
+.view-p
+{
+  font-size: 15px;
+}
+.career-dashboard
+{
+  margin-top: 15px;
+  height: 160px;
+}
+.view-career,.view-career-icon
+{
+  background-color: white;
+  height: 90px;
+  width:745px;
+}
+.view-career
+{
+  border-bottom:1px #949191e0 solid;
+}
+.view-career-icon
+{
+  width: 50px;
+}
+.view-career-icon1
+{
+  margin-top: 10px;
+}
+.career-h5
+{
+  font-weight: bold;
+}
+.career-h5-let
+{
+  color: black;
+}
+.career-h5-choose
+{
+  color: #777373;
+}
+.view-salary,.view-salary-icon
+{
+  background-color: white;
+  height: 68px;
+  width:745px;
+}
+.view-salary-icon
+{
+  width: 50px;
+}
+.view-salary-icon2
+{
+  margin-top: 10px;
+}
+.education-board
+{
+  background-color: white;
+  height: 1000px;
+}
+.row-exp,.row-intern
+{
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.col-exp,.col-exp-logo,.col-intern-des,.col-lic,.col-lic-logo
+{
+  padding-left: 0px;
+  margin-top: 10px;
+}
+.add-icon
+{
+  margin-top: 8px;
+  margin-left: 635px;
+}
+.exp-p
+{
+  font-size: 18px;
+}
+.row-intern
+{
+  margin-top: 10px;
+}
+.intern-border,.intern-border2,.intern-border3,.intern-border4
+{
+  border-bottom:1px #949191e0 solid;
+}
+.col-intern
+{
+  padding-left: 0px;
+  width: 90px;
+}
+.col-intern-des
+{
+  margin-top: 0px;
+}
+.intern-tech
+{
+  font-size: 15px;
+  font-weight: bold;
+}
+.intern-tech-sub2
+{
+  font-size: 13px;
+  color: #b1aaaa;
+}
+.svg-edit
+{
+  margin-left: 75px;
+}
+.intern-tech-sub
+{
+  color: black;
+}
+.intern-border2
+{
+  margin-top: 10px;
+  margin-left: 115px;
+}
+.intern-border3
+{
+  margin-top: 20px;
+}
+.intern-tech-sub3
+{
+  color: #a7a0a0;
+  font-weight: bold;
+}
+.add-icon2
+{
+  margin-top: 8px;
+  margin-left: 500px;
+}
+.skill-board
+{
+  background-color: white;
+  height: 350px;
+}
+.accomplish-board
+{
+  background-color: white;
+  height: 220px;
+}
+.row-acc
+{
+  margin-top: 10px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.col-acc1
+{
+  padding-left: 0px;
+}
+.h2-acc
+{
+  margin-top: 8px;
+  margin-left: 25px;
+  color: #3269ecba;
+}
+.acc-icon3
+{
+  margin-left: 95px;
+  margin-top: 10px;
+}
+.acc-h5
+{
+  font-weight: bold;
+  color: #3269ecba;
+}
+.access-h5-english
+{
+  color: #777373;
+}
+.interests-board
+{
+  background-color: white;
+  height:360px;
+}
+.row-interests,.row-skill,.row-skill-last
+{
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 20px;
+}
+.interest-h5
+{
+  color: black;
+  font-weight: bold;
+}
+.company-logo
+{
+  width:  60px;
+}
+.intern-border4
+{
+  margin-top: 20px;
+}
+.col-interest2,.col-interest4
+{
+  margin-left: 15px;
+}
+.interest-see
+{
+ padding-bottom: 10px;
+}
+.row-skill
+{
+  border-bottom:1px #949191e0 solid;
+}
+.c-bold
+{
+  color: #737373;
+}
+.c-title
+{
+  color: #716f6f;
+}
