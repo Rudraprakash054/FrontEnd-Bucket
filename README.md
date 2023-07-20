@@ -1,2 +1,2 @@
 # FrontEnd Design 
-In this repository is all about designing of  the front-end development using HTML,CSS,JavaScript .
+This repository is all about front-end design practices using HTML,CSS,JavaScript .
